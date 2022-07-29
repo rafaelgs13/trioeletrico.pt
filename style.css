@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700);
+
+body {
+  margin: 0;
+  padding: 0;
+  background: ##7B68EE;
+	font-family: ubuntu;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background: "White";
+}
+
+header img {
+  width: 50px;
+  background: ##7B68EE;
+  border-radius: 5px;
+  margin: 0 20px 0 40px;
+}
+
+article {
+  background: #7B68EE;
+  border: 3px solid #7B68EE;
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+hr, article .date {
+  color: #7B68EE;
+}
+
+.insta {
+position: relative;
+top: 700px;
+right: 300px;
+}
+
+.facebook {
+position: relative;
+top: 760px;
+}
+.numero {
+position: relative;
+top: 818px;
+left: 1200px;
+}
+
+.numero1 {
+position: fixed;
+top: 811px;
+left: 1257px;
+}
+
